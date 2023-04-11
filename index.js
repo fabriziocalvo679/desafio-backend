@@ -55,6 +55,9 @@ console.log(products);
 const product = Postres.getProductById(2);
 console.log(product);
 
+const product2 = Postres.getProductById(1);
+console.log(product);
+
 
 
 
